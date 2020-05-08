@@ -19,7 +19,7 @@ Please cite as
 
 
 ```
-[1] Sohrabi, Shirin, Anton V. Riabov, Michael Katz, and Octavian Udrea. "An AI planning solution to scenario generation for enterprise risk management." In Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
+[1] Shirin Sohrabi, Anton V. Riabov, Michael Katz, and Octavian Udrea. "An AI planning solution to scenario generation for enterprise risk management." In Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 
-[2] Sohrabi, Shirin, Michael Katz, Oktie Hassanzadeh, Octavian Udrea, Mark D. Feblowitz, and Anton Riabov. "IBM scenario planning advisor: plan recognition as AI planning in practice." AI Communications 32, no. 1 (2019): 1-13.
+[2] Shirin Sohrabi, Michael Katz, Oktie Hassanzadeh, Octavian Udrea, Mark D. Feblowitz, and Anton Riabov. "IBM scenario planning advisor: plan recognition as AI planning in practice." AI Communications 32, no. 1 (2019): 1-13.
 ```
